@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZN8msi08WOk4YmqUeMLPbgZNRX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584668353412</updated>
-      <workItem from="1584668356656" duration="4182000" />
+      <workItem from="1584668356656" duration="5049000" />
     </task>
     <servers />
   </component>
@@ -78,21 +82,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="185" key="GridCell.Tab.0.bottom" timestamp="1584672422319">
+    <state width="1237" height="185" key="GridCell.Tab.0.bottom" timestamp="1584673892695">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="185" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584672422319" />
-    <state width="1237" height="185" key="GridCell.Tab.0.center" timestamp="1584672422319">
+    <state width="1237" height="185" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584673892695" />
+    <state width="1237" height="185" key="GridCell.Tab.0.center" timestamp="1584673892694">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="185" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584672422319" />
-    <state width="1237" height="185" key="GridCell.Tab.0.left" timestamp="1584672422319">
+    <state width="1237" height="185" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584673892694" />
+    <state width="1237" height="185" key="GridCell.Tab.0.left" timestamp="1584673892694">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="185" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584672422319" />
-    <state width="1237" height="185" key="GridCell.Tab.0.right" timestamp="1584672422319">
+    <state width="1237" height="185" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584673892694" />
+    <state width="1237" height="185" key="GridCell.Tab.0.right" timestamp="1584673892695">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="185" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584672422319" />
+    <state width="1237" height="185" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584673892695" />
   </component>
 </project>
